@@ -1,0 +1,10 @@
+.about {
+    width: 100vw;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#aboutHead {
+    color: grey;
+}
